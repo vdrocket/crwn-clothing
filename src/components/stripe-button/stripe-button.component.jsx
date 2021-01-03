@@ -12,7 +12,7 @@ const StripeCheckoutButton = ({ price }) => {
   return (
     <StripeCheckout
       label="Pay Now"
-      name="CRWN Clothing Ltd"
+      name="Boutique Chez Eric Ltd"
       billingAddress
       shippingAddress
       image="https://sendeyo.com/up/d/f3eb2117da"
